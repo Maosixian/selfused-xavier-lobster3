@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "skills": {
+    "find-skills": {
+      "version": "0.1.0",
+      "installedAt": 1773302770664
+    },
+    "xiucheng-self-improving-agent": {
+      "version": "1.0.0",
+      "installedAt": 1773302993582
+    },
+    "agent-browser": {
+      "version": "0.2.0",
+      "installedAt": 1773303784387
+    },
+    "feishu-doc-manager": {
+      "version": "1.0.0",
+      "installedAt": 1773304255732
+    },
+    "token-cost-estimator": {
+      "version": "1.0.1",
+      "installedAt": 1773306600651
+    }
+  }
+}
