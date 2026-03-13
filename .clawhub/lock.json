@@ -28,6 +28,50 @@
     "openclaw-skill-vetter": {
       "version": "1.0.0",
       "installedAt": 1773368198933
+    },
+    "meta-ads-manager": {
+      "version": "1.0.0",
+      "installedAt": 1773369298801
+    },
+    "google-ads-api": {
+      "version": "1.0.5",
+      "installedAt": 1773369311651
+    },
+    "shopify-admin-api": {
+      "version": "1.0.0",
+      "installedAt": 1773369329033
+    },
+    "self-improving": {
+      "version": "1.2.16",
+      "installedAt": 1773369344098
+    },
+    "summarize": {
+      "version": "1.0.0",
+      "installedAt": 1773369363172
+    },
+    "ontology": {
+      "version": "1.0.4",
+      "installedAt": 1773369379405
+    },
+    "proactive-agent-lite": {
+      "version": "1.0.0",
+      "installedAt": 1773369392459
+    },
+    "obsidian": {
+      "version": "1.0.0",
+      "installedAt": 1773369408746
+    },
+    "auto-updater": {
+      "version": "1.0.0",
+      "installedAt": 1773369429797
+    },
+    "youtube-transcript": {
+      "version": "1.0.1",
+      "installedAt": 1773369442514
+    },
+    "elite-longterm-memory": {
+      "version": "1.2.3",
+      "installedAt": 1773369461627
     }
   }
 }
