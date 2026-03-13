@@ -1,0 +1,61 @@
+{
+  "version": 1,
+  "skills": {
+    "obsidian": {
+      "version": "1.0.0",
+      "installedAt": 1773399781383
+    },
+    "humanizer": {
+      "version": "1.0.0",
+      "installedAt": 1773399864959
+    },
+    "self-improving": {
+      "version": "1.2.16",
+      "installedAt": 1773400630107
+    },
+    "summarize": {
+      "version": "1.0.0",
+      "installedAt": 1773400641460
+    },
+    "ontology": {
+      "version": "1.0.4",
+      "installedAt": 1773400664330
+    },
+    "proactive-agent": {
+      "version": "3.1.0",
+      "installedAt": 1773400674292
+    },
+    "skill-vetter": {
+      "version": "1.0.0",
+      "installedAt": 1773400680367
+    },
+    "auto-updater": {
+      "version": "1.0.0",
+      "installedAt": 1773400690755
+    },
+    "meta-ads-manager": {
+      "version": "1.0.0",
+      "installedAt": 1773400697291
+    },
+    "google-ads-api": {
+      "version": "1.0.5",
+      "installedAt": 1773400709417
+    },
+    "shopify-admin-api": {
+      "version": "1.0.0",
+      "installedAt": 1773400715781
+    },
+    "elite-longterm-memory": {
+      "version": "1.2.3",
+      "installedAt": 1773400792099
+    },
+    "openclaw-youtube-transcript": {
+      "version": "1.0.1",
+      "installedAt": 1773400798506
+    },
+    "browser-use": {
+      "version": "1.0.2",
+      "installedAt": 1773404148387
+    }
+  }
+}
