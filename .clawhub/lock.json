@@ -20,6 +20,14 @@
     "token-cost-estimator": {
       "version": "1.0.1",
       "installedAt": 1773306600651
+    },
+    "browser-use": {
+      "version": "1.0.2",
+      "installedAt": 1773367439078
+    },
+    "openclaw-skill-vetter": {
+      "version": "1.0.0",
+      "installedAt": 1773368198933
     }
   }
 }
