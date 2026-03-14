@@ -56,6 +56,34 @@
     "browser-use": {
       "version": "1.0.2",
       "installedAt": 1773404148387
+    },
+    "google-analytics": {
+      "version": "1.0.10",
+      "installedAt": 1773408055874
+    },
+    "ui-ux-design": {
+      "version": "1.0.0",
+      "installedAt": 1773408077921
+    },
+    "superdesign": {
+      "version": "1.0.0",
+      "installedAt": 1773408085278
+    },
+    "openclaw-tavily-search": {
+      "version": "0.1.0",
+      "installedAt": 1773408106189
+    },
+    "openviking": {
+      "version": "1.0.3",
+      "installedAt": 1773408170060
+    },
+    "screenshot": {
+      "version": "1.0.1",
+      "installedAt": 1773410468235
+    },
+    "webpage-screenshot": {
+      "version": "1.0.0",
+      "installedAt": 1773410481588
     }
   }
 }

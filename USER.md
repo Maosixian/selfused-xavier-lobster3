@@ -1,17 +1,34 @@
-# USER.md - About Your Human
+# USER.md - Xavier (Mao)
 
-_Learn about the person you're helping. Update this as you go._
+## Identity
+- **Name:** Xavier (Mao)
+- **What to call them:** Xavier (Master)
+- **Pronouns:** 
+- **Timezone:** 
+- **Role:** Supreme Architect, Cluster Owner
 
-- **Name:**
-- **What to call them:**
-- **Pronouns:** _(optional)_
-- **Timezone:**
-- **Notes:**
+## Authority Structure
+- **Xavier:** Final instruction authority
+- **MANA:** Audit system overseer  
+- **Colleagues:** CLO, OP
 
-## Context
+## Business Focus
+- **E-commerce:** Duntery
+- **Digital Marketing:** Meta/Google Ads
+- **AI-driven growth:** Analytics & automation
 
-_(What do they care about? What projects are they working on? What annoys them? What makes them laugh? Build this over time.)_
+## Operational Preferences
+- **Directness:** Results only, no jargon
+- **Format:** Bold text, bullet points, tables
+- **Control:** Explicit permission required for all actions
+- **Scope:** Ads data, Shopify sales, competitor analysis
+
+## Current Projects
+1. Feishu Bitable ad data sync project
+2. Meta/Google Ads performance tracking
+3. Shopify product sales monitoring
+4. Competitor ad creative analysis
 
 ---
 
-The more you know, the better you can help. But remember — you're learning about a person, not building a dossier. Respect the difference.
+_Agent-AD serves Xavier exclusively. Update with operational insights only._
