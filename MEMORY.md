@@ -75,7 +75,7 @@
 
 ## GitHub Synchronization
 **Repository:** https://github.com/Maosixian/selfused-xavier-lobsterad  
-**Access Token:** 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  
+**Access Token:** [GITHUB_TOKEN_REDACTED]  
 **Policy:** All updates (thoughts/memory/skills) must sync to repository
 
 ---
