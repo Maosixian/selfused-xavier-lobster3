@@ -1,89 +1,77 @@
 {
   "version": 1,
   "skills": {
-    "obsidian": {
+    "find-skills": {
+      "version": "0.1.0",
+      "installedAt": 1773302770664
+    },
+    "xiucheng-self-improving-agent": {
       "version": "1.0.0",
-      "installedAt": 1773399781383
+      "installedAt": 1773302993582
     },
-    "humanizer": {
+    "agent-browser": {
+      "version": "0.2.0",
+      "installedAt": 1773303784387
+    },
+    "feishu-doc-manager": {
       "version": "1.0.0",
-      "installedAt": 1773399864959
+      "installedAt": 1773304255732
     },
-    "self-improving": {
-      "version": "1.2.16",
-      "installedAt": 1773400630107
-    },
-    "summarize": {
-      "version": "1.0.0",
-      "installedAt": 1773400641460
-    },
-    "ontology": {
-      "version": "1.0.4",
-      "installedAt": 1773400664330
-    },
-    "proactive-agent": {
-      "version": "3.1.0",
-      "installedAt": 1773400674292
-    },
-    "skill-vetter": {
-      "version": "1.0.0",
-      "installedAt": 1773400680367
-    },
-    "auto-updater": {
-      "version": "1.0.0",
-      "installedAt": 1773400690755
-    },
-    "meta-ads-manager": {
-      "version": "1.0.0",
-      "installedAt": 1773400697291
-    },
-    "google-ads-api": {
-      "version": "1.0.5",
-      "installedAt": 1773400709417
-    },
-    "shopify-admin-api": {
-      "version": "1.0.0",
-      "installedAt": 1773400715781
-    },
-    "elite-longterm-memory": {
-      "version": "1.2.3",
-      "installedAt": 1773400792099
-    },
-    "openclaw-youtube-transcript": {
+    "token-cost-estimator": {
       "version": "1.0.1",
-      "installedAt": 1773400798506
+      "installedAt": 1773306600651
     },
     "browser-use": {
       "version": "1.0.2",
-      "installedAt": 1773404148387
+      "installedAt": 1773367439078
     },
-    "google-analytics": {
-      "version": "1.0.10",
-      "installedAt": 1773408055874
-    },
-    "ui-ux-design": {
+    "openclaw-skill-vetter": {
       "version": "1.0.0",
-      "installedAt": 1773408077921
+      "installedAt": 1773368198933
     },
-    "superdesign": {
+    "meta-ads-manager": {
       "version": "1.0.0",
-      "installedAt": 1773408085278
+      "installedAt": 1773369298801
     },
-    "openclaw-tavily-search": {
-      "version": "0.1.0",
-      "installedAt": 1773408106189
+    "google-ads-api": {
+      "version": "1.0.5",
+      "installedAt": 1773369311651
     },
-    "openviking": {
-      "version": "1.0.3",
-      "installedAt": 1773408170060
+    "shopify-admin-api": {
+      "version": "1.0.0",
+      "installedAt": 1773369329033
     },
-    "screenshot": {
+    "self-improving": {
+      "version": "1.2.16",
+      "installedAt": 1773369344098
+    },
+    "summarize": {
+      "version": "1.0.0",
+      "installedAt": 1773369363172
+    },
+    "ontology": {
+      "version": "1.0.4",
+      "installedAt": 1773369379405
+    },
+    "proactive-agent-lite": {
+      "version": "1.0.0",
+      "installedAt": 1773369392459
+    },
+    "obsidian": {
+      "version": "1.0.0",
+      "installedAt": 1773369408746
+    },
+    "auto-updater": {
+      "version": "1.0.0",
+      "installedAt": 1773369429797
+    },
+    "youtube-transcript": {
       "version": "1.0.1",
-      "installedAt": 1773410468235
+      "installedAt": 1773369442514
     },
-    "webpage-screenshot": {
-      "version": "1.0.0",
-      "installedAt": 1773410481588
+    "elite-longterm-memory": {
+      "version": "1.2.3",
+      "installedAt": 1773369461627
     }
   }
 }

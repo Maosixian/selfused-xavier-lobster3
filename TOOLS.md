@@ -38,3 +38,7 @@ Skills are shared. Your setup is yours. Keeping them apart means you can update 
 ---
 
 Add whatever helps you do your job. This is your cheat sheet.
+
+### 飞书开放平台
+- App ID: cli_a93895b636f95cd4
+- App Secret: CRBBGzkk2Eam9YkZCwl0GXDw3gUf8TyI
